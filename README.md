@@ -14,7 +14,7 @@
 
 ## General Information
 
-Choose on of the top 50 trends in the US, and an average score from -100 to 100 will be displayed. The lower the score the more negative people on feel about the trend, the higher the score, the more positive people feel about the trend.
+  Choose on of the top 50 trends in the US, and an average score from -100 to 100 will be displayed. The lower the score the more negative people on feel about the trend, the higher the score, the more positive people feel about the trend.
 
 ## Technologies Used
 
@@ -42,6 +42,6 @@ Project is: _finished_
 
 ## Contact
 
-[Check out my GitHub](https://github.com/Assentt)
+[Check out my GitHub](https://github.com/ethan-pt)
 
 [Send me an Email](mailto:tubbeethan@gmail.com)
